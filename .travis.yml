@@ -2,6 +2,7 @@ sudo: true
 language: cpp
 os:
 - osx
+  osx_image: xcode10.1
 compiler:
 - gcc
 cache:
